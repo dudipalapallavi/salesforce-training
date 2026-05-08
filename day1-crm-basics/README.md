@@ -1,9 +1,6 @@
 Salesforce Summer Program - Day 1
 1.What is CRM
 CRM stands for Customer Relationship Management. It helps companies manage customer information, communication, and sales processes.
-<img width="497" height="517" alt="WhatsApp Image 12" src="https://github.com/user-attachments/assets/2b652a8e-da5c-4978-95c4-a321538ec4af" />
-<img width="497" height="517" alt="WhatsApp Image 12" src="https://github.com/user-attachments/assets/3d470224-877f-4607-8ddd-145bb20402bc" />
-<img width="497" height="517" alt="WhatsApp Image 2026-04-19 at 1 33 42 PM" src="https://github.com/user-attachments/assets/dd811028-b100-4bbb-9041-45d4facb5f2c" />
 
 
 2.Why companies use Salesforce
